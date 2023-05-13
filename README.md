@@ -17,25 +17,35 @@ consul agent -dev
 
 Node1
 ```
- python app.py 5001 n1
+ python app.py 
+ 5001 
+ n1
 ```
 
 Node2
 ```
- python app.py 5002 n2
+ python app.py 
+ 5002 
+ n2
 ```
 
 Node3
 ```
- python app.py 5003 n3
+ python app.py 
+ 5003 
+ n3
 ```
 
 Node4
 ```
- python app.py 5004 n4
+ python app.py 
+ 5004 
+ n4
 ```
 
 Node5
 ```
- python app.py 5005 n5
+ python app.py 
+ 5005 
+ n5
 ```
